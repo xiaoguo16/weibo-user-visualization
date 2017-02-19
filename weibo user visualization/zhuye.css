@@ -1,0 +1,41 @@
+body{
+background-color: #5599FF;
+}
+#content{
+width:100%;
+margin: 0 auto;
+}
+#select{
+width:80%;
+margin:0 auto;
+overflow:hidden;
+}
+#select1{
+float:left;
+width:50%;
+}
+#select2{
+float:right;
+width:50%;
+}
+#inf{
+width:80%;
+margin:0 auto;
+height: 50px;
+}
+h3{
+font-size: 50px;
+text-align:center;
+color:white;
+}
+a {color:#FFF0F5 ;}
+a:hover{color:black;}
+#select p {
+text-align:center;
+font-size: 30px;
+}
+#inf p{
+color:white;
+text-align:center;
+font-size: 20px;
+}

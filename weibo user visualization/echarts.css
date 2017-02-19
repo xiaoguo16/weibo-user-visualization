@@ -1,0 +1,221 @@
+body{
+text-align: center;
+}
+.wrap{
+	margin: 0 auto;
+	width: 76.8%;
+	text-align: left;
+	border:1px solid #c9c9c9;
+	background-color: #F1F1F1;
+	}
+
+.content .primary{
+	float: left;
+	width: 20%;
+	display: inline;
+	padding-right: 2%;
+}
+a{
+	display: block;
+	width: 96%;
+	font-size: 15px;
+	line-height: 2em;
+	font-family: "微软雅黑","宋体",Arial;
+	font-weight: bold;
+	padding-left: 2em;
+}
+a:link, a:visited{text-decoration: none;}
+a:link{color: black;}
+a:visited{color: gray;}
+a:hover, a:focus, a:active{text-decoration: underline;color: red;background-color: #FF9933;}
+
+.content .secondary{
+	float:right;
+	width: 77.82%;
+    display: inline;
+}
+.content{
+	overflow: hidden;
+}
+#weiboid{
+
+background-color: #F5F5DC;
+margin:0 auto;
+/* width:80%; */
+height:auto;
+border:1px solid #c9c9c9;
+border-left: none;
+font-family: "微软雅黑","宋体",Arial;
+font-size: 30px;
+padding: 16px 1px;
+}
+img{
+	float: right;
+	display: block;
+}
+p{
+	/*text-align:center;*/
+/*	font-size:30px;*/
+	float: right;
+	display: block;
+
+}
+.jj{
+	display: block;
+	font-size: 15px;
+	font-family: "微软雅黑","宋体",Arial;
+
+
+}
+
+/* body{
+background-image:url(../bj.jpg);
+background-repeat:no-repeat;
+background-position:top;
+background-attachment:fixed;
+} */
+#pie-tool {
+margin:0 auto;
+/* width:75%; */
+height:300px;
+border:1px solid #c9c9c9;
+}
+#pie-third{
+margin:0 auto;
+/* width:75%; */
+height:300px;
+border:1px solid #c9c9c9;
+
+}
+#statis{
+margin:0 auto;
+/* width:75%; */
+height:300px;
+border:1px solid #c9c9c9;
+
+}
+#month{
+margin:0 auto;
+/* width:75%; */
+height:900px;
+border:1px solid #c9c9c9;
+
+}
+#m1{
+margin:0 auto;
+width:100%;
+height:300px;
+}
+#m2{
+margin:0 auto;
+width:100%;
+height:300px;
+
+}
+#m3{
+margin:0 auto;
+width:100%;
+height:300px;
+}
+#jiaohu{
+margin:0 auto;
+/* width:75%; */
+height:auto;
+padding: 1em 0;
+border:1px solid #c9c9c9;
+font-family: "微软雅黑","宋体",Arial;
+}
+
+ol li{
+		margin:0 auto;
+font-size: 15px;
+list-style-position:inside;
+text-align: center;
+
+}
+h3{
+	text-align: center;
+	font-size: 22px;
+
+}
+#wordcloud{
+margin:0 auto;
+/* width:75%; */
+height:300px;
+border:1px solid #c9c9c9;
+
+}
+#text{
+margin:0 auto;
+/* width:75%; */
+height:700px;
+border:1px solid #c9c9c9;
+
+}
+#attention{
+margin:0 auto;
+color: white;
+width:100%;
+height:300px;
+}
+#textcloud{
+margin:0 auto;
+width:100%;
+height:400px;
+}
+#follow{
+margin:0 auto;
+/* width:75%; */
+height:300px;
+border:1px solid #c9c9c9;
+
+}
+#sex{
+float:left;
+width:49%;
+height:300px;
+border:1px solid #c9c9c9;
+border-left: none;
+border-top: none;
+
+}
+#birth{
+float:right;
+width:50%;
+height:300px;
+}
+#area{
+margin:0 auto;
+/* width:75%; */
+height:400px;
+border:1px solid #c9c9c9;
+
+}
+#ego{
+margin:0 auto;
+/* width:75%; */
+height:599px;
+border:1px solid #c9c9c9;
+
+}
+#label{
+margin:0 auto;
+/* width:75%; */
+color: white;
+height:400px;
+border:1px solid #c9c9c9;
+
+}
+.wrap .footer{
+height: 50px;
+padding-top: 10px;
+margin:0 auto;
+width: 100%;
+font-family: "微软雅黑","宋体",Arial;
+text-align: center;
+background-color: #808080;
+color: #DDD;
+font-size: 14px;
+border:1px solid black;
+overflow: hidden;
+}
